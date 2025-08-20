@@ -1,4 +1,7 @@
-# Olá, sou Angel Diniz!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ol%C3%A1%2C%20sou%20Angel%20Diniz!;&font=Fira%20Code&center=true&width=440&height=45&color=F7F7F7&vCenter=true&size=22">
+</p>
+
 
 ### **Desenvolvedor Back-End Júnior** 💻
 
