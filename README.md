@@ -14,4 +14,4 @@ Como uma dev júnior, estou sempre buscando aprender e aprimorar minhas habilida
 
 🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github.com/AngelDiniz/AngelDiniz)](https://github.com/anuraghazra/github-readme-stats)
