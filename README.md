@@ -14,4 +14,6 @@ Como uma dev júnior, estou sempre buscando aprender e aprimorar minhas habilida
 
 🚀
 
-[![Anurag's GitHub stats](https://github.com/AngelDiniz/AngelDiniz)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ol%C3%A1%2C%20sou%20[Seu%20Nome]!;&font=Fira%20Code&center=true&width=440&height=45&color=F7F7F7&vCenter=true&size=22">
+</p>
