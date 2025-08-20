@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sou Angel Diniz!
 
-<!--
-**AngelDiniz/AngelDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Desenvolvedor Back-End Júnior** 💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Foco em Arquitetura de Software** ✨
+
+Como uma dev júnior, estou sempre buscando aprender e aprimorar minhas habilidades em:
+
+- **Linguagens:** Java, Pythonk, JavaScript e PHP;
+- **Frameworks:** Spring Boot, Django;
+- **Banco de Dados:** SQL, MongoDB;
+
+🚀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
